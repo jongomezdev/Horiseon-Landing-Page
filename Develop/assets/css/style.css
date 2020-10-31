@@ -105,9 +105,7 @@ p {
 }
 
 /* Consolidate body to more readable code */
-.search-engine-optimization,
-.social-media-marketing,
-.online-reputation-management {
+.info {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -115,18 +113,11 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
-/* Consolidate 3 separate img tags to more readable code */
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+.info img {
   max-height: 200px;
 }
 
-/* Consolidate 3 h2 tags to more readable code */
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+.info h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
