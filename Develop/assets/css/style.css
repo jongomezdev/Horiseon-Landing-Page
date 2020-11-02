@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #a5a6a4;
+  background-color: #d9dcd6;
 }
 
 .header {
@@ -104,7 +104,7 @@ p {
   max-width: 150px;
 }
 
-/* Consolidate body to more readable code */
+/* Consolidate repetitive body tags to more readable code */
 .info {
   margin-bottom: 20px;
   padding: 50px;
