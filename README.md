@@ -8,6 +8,4 @@ I've taken the steps to refactor their code and help future front end developers
 
 # Screenshot
 
-Screenshot of the final result is located in the assets/images path
-
-![Screenshot](./assets/images/Horiseon-Landing-Page.png)
+![Screenshot](/assets/images/Horiseon-Landing-Page.png)
