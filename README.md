@@ -13,7 +13,7 @@ Available for clone, or simply copy & paste code/save images.
 ### Links
 
 1. [GitHub Repo](https://github.com/jongomezdev/Horiseon-Landing-Page)
-2.
+2. [site](https://jongomezdev.github.io/Horiseon-Landing-Page/)
 
 ### Chrome Lighthouse Grade
 
@@ -28,4 +28,4 @@ Available for clone, or simply copy & paste code/save images.
 
 ### Mock-Up
 
-![Landing Page](./Develop/assets/Horiseon.png)
+![screenshot](./assets/Horiseon.png)
