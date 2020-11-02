@@ -8,4 +8,6 @@ I've taken the steps to refactor their code and help future front end developers
 
 # Screenshot
 
-![Alt text](/Horiseon-Landing-Page/Develop/assets/images/Horiseon-Landing-Page.png?raw=true 'web page screenshot')
+Screenshot of the final result is located in the assets/images path
+
+![Screenshot](C:\Users\Jonathan Gomez\Desktop\Horiseon-Landing-Page\Develop\assets\images\Horiseon-Landing-Page.png)
