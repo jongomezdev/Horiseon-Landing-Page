@@ -8,4 +8,4 @@ I've taken the steps to refactor their code and help future front end developers
 
 ## Mock-Up
 
-![Landing Page](../assets/Horiseon-Landing-Page.png)
+![Landing Page](/assets/Horiseon.png)
