@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #d9dcd6;
+  background-color: #a5a6a4;
 }
 
 .header {
@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 .seo {
-  color: #d9dcd6;
+  color: #fff;
 }
 
 .header div {
@@ -43,7 +43,7 @@ body {
 }
 
 a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
 }
 
