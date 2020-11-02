@@ -10,4 +10,4 @@ I've taken the steps to refactor their code and help future front end developers
 
 Screenshot of the final result is located in the assets/images path
 
-![Screenshot](C:\Users\Jonathan Gomez\Desktop\Horiseon-Landing-Page\Develop\assets\images\Horiseon-Landing-Page.png)
+![Screenshot](./assets/images/Horiseon-Landing-Page.png)
